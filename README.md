@@ -1,10 +1,6 @@
 # MultidimensionalSearch
-A multidimensional search engine implemented in Java for searching products based on attributes like price, category, brand etc. Used Self balancing trees to store data
+A multidimensional search engine implemented in Java for searching products based on attributes like price, category, brand etc.
 Project Description
-Implement the following operations.  Starter code is provided.
-Do not change the name of the class.
-Do not change the signatures of public methods in the starter code.
-
 
 Multi-dimensional search: Consider the web site of a seller like Amazon.  
 They carry tens of thousands of products, and each product has many
